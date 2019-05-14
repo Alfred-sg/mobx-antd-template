@@ -1,0 +1,1 @@
+export const UrlPrefix = process.env.NODE_ENV === 'production' ? '' : '/api';

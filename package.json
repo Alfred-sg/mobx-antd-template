@@ -1,0 +1,30 @@
+{
+  "name": "mobx-antd-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "plutarch server",
+    "build": "plutarch build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.18.0",
+    "axios": "^0.18.0",
+    "mobx": "^5.8.0",
+    "mobx-react": "^5.4.3",
+    "mobx-react-devtools": "^6.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.0"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
